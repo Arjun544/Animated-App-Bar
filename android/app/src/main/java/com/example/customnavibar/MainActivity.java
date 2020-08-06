@@ -1,0 +1,6 @@
+package com.example.customnavibar;
+
+import io.flutter.embedding.android.FlutterActivity;
+
+public class MainActivity extends FlutterActivity {
+}
